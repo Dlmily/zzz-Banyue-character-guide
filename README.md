@@ -1,4 +1,5 @@
 # zzz-Banyue-character-guide
+![1774157336930.png](https://github.com/Dlmily/zzz-Banyue-character-guide/blob/main/1774157336930.png)
 本攻略旨在针对**般岳**角色优化官方的技能描述以及搓招思路。为防止您在浏览本攻略时看到一系列专有名词而感到杂乱，本攻略规定以下专有名词称呼：
 
 > [!IMPORTANT]
